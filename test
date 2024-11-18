@@ -1,0 +1,45 @@
+{
+"columns": [
+{
+"id": "id1",
+"name": "Number",
+"type": "string"
+},
+{
+"id": "id2",
+"name": "Name",
+"type": "string"
+},
+{
+"id": "id3",
+"name": "Description",
+"type": "string"
+},
+{
+"id": "id4",
+"name": "PriceOld",
+"type": "number"
+},
+{
+"id": "id5",
+"name": "PriceNew",
+"type": "number"
+},
+{
+"id": "id6",
+"name": "Picture",
+"type": "string"
+}
+],
+"rows": [
+{
+"id1": "4",
+"id2": "A 750ml sports water bottle.",
+"id3": "The novelty that we offer you is the perfect eco–friendly solution for all your desires! The sports water bottle is made individually for our brand based on extensive experience in this category.",
+"id4": 1,
+"id5": 2,
+"id6": "https://photos.google.com/photo/AF1QipOBJL0H8jpmgnwTxq59pAFRI0dLlA94lXnDNAHz"
+}
+],
+"totalCount": 1
+}
